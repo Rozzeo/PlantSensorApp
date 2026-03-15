@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(JAVA_HOME=\"/c/Program Files/Android/Android Studio/jbr\"\nGRADLE_BIN=\"/c/Users/Admin/.gradle/wrapper/dists/gradle-8.9-bin/90cnw93cvbtalezasaz0blq0a/gradle-8.9/bin/gradle\"\nexport JAVA_HOME\ncd \"/c/Users/Admin/AndroidStudioProjects/PlantSensorApp\" && \"$GRADLE_BIN\" assembleDebug 2>&1)",
+      "Bash(ADB=\"/c/Users/Admin/AppData/Local/Android/Sdk/platform-tools/adb.exe\"\nAPK=\"/c/Users/Admin/AndroidStudioProjects/PlantSensorApp/app/build/outputs/apk/debug/app-debug.apk\"\n\"$ADB\" install -r \"$APK\" 2>&1)"
+    ]
+  }
+}

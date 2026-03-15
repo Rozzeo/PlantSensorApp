@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Plant Sensor</string>
+    <string name="scan_title">Find Your Plant Sensor</string>
+    <string name="dashboard_title">Plant Dashboard</string>
+    <string name="btn_scan">Scan for Plant Sensors</string>
+    <string name="btn_stop">Stop Scan</string>
+    <string name="btn_demo">Try Demo Mode</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="label_moisture">Moisture</string>
+    <string name="label_temperature">Temperature</string>
+    <string name="label_light">Light</string>
+    <string name="label_battery">Battery</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="permission_rationale">Bluetooth and location permissions are required to scan for your plant sensor.</string>
+</resources>

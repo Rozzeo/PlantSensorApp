@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand green palette -->
+    <color name="primary">#2E7D32</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#A5D6A7</color>
+    <color name="on_primary_container">#1B5E20</color>
+
+    <color name="secondary">#558B2F</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Surfaces -->
+    <color name="background">#F1F8E9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="on_surface_variant">#757575</color>
+
+    <!-- Sensor accent colors -->
+    <color name="moisture_color">#1565C0</color>
+    <color name="temperature_color">#E65100</color>
+    <color name="light_color">#F57F17</color>
+    <color name="battery_color">#2E7D32</color>
+
+    <!-- Status colors -->
+    <color name="status_good">#4CAF50</color>
+    <color name="status_warn">#FF9800</color>
+    <color name="status_bad">#F44336</color>
+</resources>

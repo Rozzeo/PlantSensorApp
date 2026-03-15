@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.plantsensor.app-mergeDebugResources-36:/layout/card_sensor.xml",
+        "source": "com.plantsensor.app-main-39:/layout/card_sensor.xml"
+    },
+    {
+        "merged": "com.plantsensor.app-mergeDebugResources-36:/layout/item_device.xml",
+        "source": "com.plantsensor.app-main-39:/layout/item_device.xml"
+    },
+    {
+        "merged": "com.plantsensor.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.plantsensor.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.plantsensor.app-mergeDebugResources-36:/layout/activity_dashboard.xml",
+        "source": "com.plantsensor.app-main-39:/layout/activity_dashboard.xml"
+    }
+]
